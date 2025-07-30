@@ -13,4 +13,9 @@ Bu proje, eczanelerin ilaç stoklarını kolay ve etkili bir şekilde takip edeb
 ## 🛠️ Kullanılan Teknolojiler
 
 - CSS / PHP / JavaScript 
-- MySQL 
+- MySQL
+- 
+## 📷 Ekran Görüntüleri
+
+![Anasayfa](images/anasayfa.png)  
+*Anasayfa görünümü*
