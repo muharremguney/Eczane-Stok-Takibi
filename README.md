@@ -9,3 +9,8 @@ Bu proje, eczanelerin ilaç stoklarını kolay ve etkili bir şekilde takip edeb
 - Stok uyarıları (azalan ürünler)  
 - İlaçlara ait temel bilgileri görüntüleme  
 - Basit ve kullanıcı dostu arayüz
+
+## 🛠️ Kullanılan Teknolojiler
+
+- CSS / PHP / JavaScript 
+- MySQL 
