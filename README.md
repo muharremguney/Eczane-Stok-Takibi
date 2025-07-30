@@ -17,4 +17,4 @@ Bu proje, eczanelerin ilaç stoklarını kolay ve etkili bir şekilde takip edeb
 - 
 ## 📷 Ekran Görüntüleri
 
-![Ekran Görüntüsü](image/anasayfa.png)
+![Ekran Görüntüsü](images/anasayfa.png)
