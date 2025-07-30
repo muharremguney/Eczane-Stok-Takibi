@@ -14,7 +14,5 @@ Bu proje, eczanelerin ilaç stoklarını kolay ve etkili bir şekilde takip edeb
 
 - CSS / PHP / JavaScript 
 - MySQL
-- 
-## 📷 Ekran Görüntüleri
+  
 
-![Ekran Görüntüsü](images/anasayfa.png)
